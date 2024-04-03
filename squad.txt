@@ -1,0 +1,14 @@
+20:00 - 06:00
+Sgt. Boomer false
+Sgt. Athena false
+Pvt. Starbuck true
+Pvt. Apollo true
+Pvt. Zac false
+Pvt. Tigh false
+
+Sgt. Ferretti false
+Sgt. Kawalsky false
+Pvt. Raynolds false
+Pvt. Siler true
+Pvt. Pierce true
+Pvt. Makepeace false

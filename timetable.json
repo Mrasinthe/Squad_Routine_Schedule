@@ -1,0 +1,106 @@
+{
+    "SQUAD #1": [
+        {
+            "Time": "20:00",
+            "Stove-Watch": "Boomer",
+            "Patrol": "-"
+        },
+        {
+            "Time": "21:00",
+            "Stove-Watch": "Athena",
+            "Patrol": "-"
+        },
+        {
+            "Time": "22:00",
+            "Stove-Watch": "Starbuck",
+            "Patrol": "Starbuck, Apollo"
+        },
+        {
+            "Time": "23:00",
+            "Stove-Watch": "Apollo",
+            "Patrol": "Starbuck, Apollo"
+        },
+        {
+            "Time": "00:00",
+            "Stove-Watch": "Zac",
+            "Patrol": "-"
+        },
+        {
+            "Time": "01:00",
+            "Stove-Watch": "Tigh",
+            "Patrol": "-"
+        },
+        {
+            "Time": "02:00",
+            "Stove-Watch": "",
+            "Patrol": ""
+        },
+        {
+            "Time": "03:00",
+            "Stove-Watch": "",
+            "Patrol": ""
+        },
+        {
+            "Time": "04:00",
+            "Stove-Watch": "",
+            "Patrol": ""
+        },
+        {
+            "Time": "05:00",
+            "Stove-Watch": "",
+            "Patrol": ""
+        }
+    ],
+    "SQUAD #2": [
+        {
+            "Time": "20:00",
+            "Stove-Watch": "Ferretti",
+            "Patrol": "-"
+        },
+        {
+            "Time": "21:00",
+            "Stove-Watch": "Kawalsky",
+            "Patrol": "-"
+        },
+        {
+            "Time": "22:00",
+            "Stove-Watch": "Raynolds",
+            "Patrol": "-"
+        },
+        {
+            "Time": "23:00",
+            "Stove-Watch": "Siler",
+            "Patrol": "Siler, Pierce"
+        },
+        {
+            "Time": "00:00",
+            "Stove-Watch": "Pierce",
+            "Patrol": "Siler, Pierce"
+        },
+        {
+            "Time": "01:00",
+            "Stove-Watch": "Makepeace",
+            "Patrol": "-"
+        },
+        {
+            "Time": "02:00",
+            "Stove-Watch": "",
+            "Patrol": ""
+        },
+        {
+            "Time": "03:00",
+            "Stove-Watch": "",
+            "Patrol": ""
+        },
+        {
+            "Time": "04:00",
+            "Stove-Watch": "",
+            "Patrol": ""
+        },
+        {
+            "Time": "05:00",
+            "Stove-Watch": "",
+            "Patrol": ""
+        }
+    ]
+}
